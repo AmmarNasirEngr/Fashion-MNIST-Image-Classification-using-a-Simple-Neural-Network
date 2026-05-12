@@ -1,6 +1,6 @@
 ##
 ### Fashion-MNIST-Image-Classification-using-a-Simple-Neural-Network
-This notebook demonstrates a basic end-to-end workflow for image classification using a simple Artificial Neural Network (ANN) on the Fashion MNIST dataset. It covers data loading, preprocessing, model definition, training, and evaluation in PyTorch. It has evolved through several key stages, starting with basic data preparation and culminating in training a Convolutional Neural Network for Fashion MNIST image classification. Here's a breakdown of the overall flow:
+This notebook demonstrates a basic end-to-end workflow for image classification using a simple Artificial Neural Network (ANN) on the Fashion MNIST dataset. It covers data loading, preprocessing, model definition, training, and evaluation in PyTorch. It has evolved through several key stages, starting with basic data preparation and culminating in training a Artificial Neural Network for Fashion MNIST image classification. Here's a breakdown of the overall flow:
 
 ## Overall Code Flow and Training Process
 
